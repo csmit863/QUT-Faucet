@@ -1,0 +1,4 @@
+faucet-backend/.env
+faucet-backend/__pycache__
+faucet-backend/ethereum/__pycache__
+faucet-backend/otp/__pycache__
