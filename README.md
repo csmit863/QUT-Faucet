@@ -4,6 +4,8 @@ Claiming sepolia ETH works by entering your student email (ending in qut.edu.au)
 
 ![faucet_frontend](faucet.png)
 
+![emailConfirmation](email_confirmation.png)
+
 ![faucetTxConfirmation](faucet_tx.png)
 
 ![faucetSuccessWallet](faucet_success.png)
